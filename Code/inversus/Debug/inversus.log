@@ -1,0 +1,38 @@
+﻿  Board.cpp
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Board.cpp(80,19): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Bullet.cpp
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Bullet.cpp(36,33): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Bullet.cpp(61,33): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Bullet.cpp(69,33): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Bullet.cpp(95,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Bullet.cpp(133,33): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Bullet.cpp(180,33): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Creature.cpp
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Creature.cpp(18,23): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  DieEmotion.cpp
+  Enemy.cpp
+  InBullet.cpp
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\InBullet.cpp(11,19): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\InBullet.cpp(12,19): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\InBullet.cpp(26,17): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Player.cpp
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\Player.cpp(224,7): warning C4101: 'rect' :참조되지 않은 지역 변수입니다.
+  SpecialBullet.cpp
+  소스.cpp
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(572,50): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(601,38): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(629,58): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(632,49): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(633,49): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(644,56): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(649,37): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(668,32): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(750,33): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(772,23): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(839,55): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(860,49): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(901,27): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(905,20): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\sueng\Desktop\Project★\Inversus\Code\inversus\소스.cpp(908,33): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  코드를 생성하고 있습니다...
+  inversus.vcxproj -> C:\Users\sueng\Desktop\Project★\Inversus\Code\Debug\inversus.exe
